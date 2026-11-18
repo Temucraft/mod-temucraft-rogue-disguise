@@ -1,0 +1,21 @@
+[worldserver]
+
+########################################
+# mod-temucraft-rogue-disguise
+########################################
+#
+#    Temucraft.RogueDisguise.Enable
+#        Description: Rogues learn and wear disguises (see the module's README).
+#        Default:     1
+#
+#    Temucraft.RogueDisguise.Cooldown
+#        Description: Seconds before a new disguise can be put on after one fell apart.
+#        Default:     10
+#
+#    Temucraft.RogueDisguise.FoolsGuards
+#        Description: Guards are fooled too (0 = guards always see through it).
+#        Default:     1
+
+Temucraft.RogueDisguise.Enable = 1
+Temucraft.RogueDisguise.Cooldown = 10
+Temucraft.RogueDisguise.FoolsGuards = 1
